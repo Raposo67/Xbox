@@ -17,9 +17,11 @@ Após a Extração e Mover as pastas para o Local Certo, Entre no aplicativo Peg
 ![Screenshot_20250105-121222-741](https://github.com/user-attachments/assets/b0185c24-63c2-48fc-b34a-fac046bacc8a)
 
 Após isso Volte e Clique em ```set game directories``` 
+![Screenshot_20250105-121301-557](https://github.com/user-attachments/assets/1d8869e1-565a-4b77-a1e5-a2f327e1903d)
 
+e adicione o arquivo metadata de cada pasta, vá em ```Download/Xbox/PS2/metadata``` faça isso para cada pasta dentro de Xbox. Depois disso, Se voce tiver feito tudo certo os Jogos E Aplicativos apareceram na pagina inicial do Pegasus.
 
-e adicione o arquivo metadata de cada pasta, vá em ```Download/Xbox/PS2/metadata``` faça isso para cada pasta dentro de Xbox:
+Espero que Vocês Consigam Instalar Tudo Certo!
 
 
 
